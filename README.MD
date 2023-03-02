@@ -6,7 +6,7 @@ create for Argenis Ochoa Gonzalez (@linux8a)
 
 use
 
-* copy emviromment
+* copy enviromment
 
 ```
 copy env.examples .env
