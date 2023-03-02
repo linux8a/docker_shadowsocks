@@ -1,5 +1,7 @@
 # Microservice shadowsocks server 
 
+[![Docker Image CI](https://github.com/linux8a/docker_shadowsocks/actions/workflows/docker-image.yml/badge.svg)](https://github.com/linux8a/docker_shadowsocks/actions/workflows/docker-image.yml)
+
 create for Argenis Ochoa Gonzalez (@linux8a)
 
 use
